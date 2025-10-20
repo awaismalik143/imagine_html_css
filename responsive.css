@@ -1,0 +1,514 @@
+@media (max-width: 1200px) {
+  .marketing_skills_outerDiv {
+    width: 97%;
+  }
+ .Navbar_1{
+   height: 77px;
+ }
+
+
+  .parent_girftimg{
+    /* border:  1px solid black; */
+    width: 95%;
+  }
+
+ .Communicate{
+    /* border:  1px solid black; */
+  font-size: 17px;
+  line-height: 45px;
+ }
+
+.papage{
+  /* border:  1px solid black; */
+}
+.our{
+  font-size: 28px;
+}
+.man_img{
+  width: 450px;
+}
+
+.paragraph{
+  width: 339px;
+  /* border: 1px solid black; */
+}
+.paragraph{
+  padding-top: 15px;
+}
+.ul-3{
+  padding-top: 23px;
+  line-height: 40px;
+}
+.btn10{
+  margin-top: 42px;
+}
+/* --------------- */
+.team_info{
+  /* border:  1px solid black; */
+  /* width: ; */
+}
+.pp1{
+  width: 290px;
+}
+.about_team_prsn p{
+    width: 290px;
+  /* border:  1px solid black; */
+  font-size: 15px;
+}
+.prent_12 img{
+  width: 290px;
+}
+.make{
+  width: 290px;
+  font-weight: lighter;
+}
+.lo{
+  width: 290px;
+}
+
+.name-fields input{
+  width: 202px;
+}
+
+.full-input {
+  width: 428px;
+}
+
+
+}
+
+
+
+
+@media (max-width: 991px) {
+  #bar_icon {
+    display: block;
+    margin-left: 27%;
+  }
+
+  .ul_1 {
+    display: none;
+  }
+
+  .hero_text_outerdiv {
+    display: none;
+  }
+
+  .hero_img {
+    position: relative;
+    max-width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border:  1px solid black; */
+  }
+
+  .hero_img img {
+    width: 100%;
+    margin-bottom: 30px;
+    height: auto;
+    display: block;
+  }
+
+
+  .Section_hero {
+    height: 104vh;
+    /* border:  1px solid rgb(206, 21, 21); */
+  }
+
+  .marketing_skills_outerDiv {
+    width: 72%;
+    /* border:  1px solid black; */
+  }
+
+  .marketing {
+    width: 47%;
+  }
+
+  .Features {
+    font-size: 14px;
+  }
+
+  .dolor_text {
+    /* border:  1px  solid black; */
+    font-size: 17px;
+    width: 50%;
+  }
+
+  .parent_girftimg{
+    flex-direction: column;
+    /* border:  1px solid black; */
+    width: 90%;
+  }
+  .gift_img{
+    width: 73%;
+  }
+
+
+  .Communicate{
+    /* border:  1px solid black; */
+    width: 100%;
+    font-size: 18px;
+  }
+ .parent_after_img{
+  /* border:  1px solid rgb(252, 9, 9); */
+  width: 80% ;
+ }
+
+ .Section_4_about{
+  /* border:  1px solid yellow; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* width: max-content; */
+  margin: auto;
+ }
+ .papage{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* border:  1px solid rgb(202, 13, 13); */
+  width: max-content;
+ }
+ .man_img{
+  width: 690px;
+  margin: auto;
+ }
+.aboutus_text_div{
+  /* border:  1px solid black; */
+  width: max-content;
+  /* margin: auto; */
+}
+.paragraph{
+  /* border:  1px solid black; */
+  width: 680px;
+  
+  
+}
+
+
+.Navbar_1{
+   height: 68px;
+ }
+/* --------------------------------- */
+.team_info{
+  /* border:  1px solid black; */
+  /* width: ; */
+}
+.pp1{
+  width: 330px;
+}
+.about_team_prsn p{
+   font-size: 16px;
+  /* border:  1px solid black; */
+   width: 330px;
+}
+.prent_12{
+  /* border:  1px solid black; */
+  /* margin: auto; */
+}
+.prf{
+  /* border:  1px solid black; */
+ /* width: 100%; */
+ justify-content: center;
+ align-items: center;
+}
+.prent_12 img{
+  width: 330px;
+}
+
+.make{
+  width: 300px;
+  font-weight: lighter;
+}
+.lo{
+  width: 290px;
+}
+
+.name-fields input{
+  width: 282px;
+}
+
+.full-input {
+  width: 594px;
+}
+
+}
+
+
+@media (max-width: 768px) {
+
+
+  
+  .Section_hero {
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    padding-top: 0;
+  }
+
+
+  .hero_text_outerdiv {
+    display: block;
+    /* border: 1px solid black; */
+    height: max-content;
+    max-width: 70%;
+    margin-top: 10px;
+  }
+
+  .hero_text_business {
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-weight: 70%;
+    width: 80%;
+  }
+
+  .Lorem_text {
+    /* border: 1px solid black; */
+    width: 100%;
+  }
+
+  #button1 {
+    display: none;
+  }
+
+  .marketing_skills_outerDiv{
+    /* border:  1px solid black; */
+  }
+  .marketing{
+    /* border:  1px solid black; */
+    width: 100%;
+  }
+.dolor_text{
+    /* border:  1px solid black; */
+  width: 36%;
+}
+
+.Section_4_about{
+  /* border: 1px solid black; */
+
+}
+
+
+  .parent_after_img{
+  /* border:  1px solid rgb(252, 9, 9); */
+  padding-top: 0;
+ }
+ .man_img{
+  width: 510px;
+  /* padding-bottom: 20px; */
+ }
+
+ .paragraph{
+  /* border: 1px solid black; */
+  width:520px ;
+ }
+
+
+/* --------------------------------- */
+.team_info{
+  /* border:  1px solid black; */
+  /* width: ; */
+}
+.pp1{
+  width: 500px;
+}
+.about_team_prsn p{
+   font-size: 16px;
+  /* border:  1px solid black; */
+   width: 500px;
+}
+.para-1{
+  width: 390px;
+}
+.prent_12 img{
+  width: 500px;
+}
+.make{
+  width: 500px;
+  font-weight: lighter;
+}
+.lo{
+  width: 500px;
+}
+
+.name-fields input{
+  width: 414px;
+}
+
+.full-input {
+    width: 414px;
+
+}
+.name-fields{
+  flex-direction: column;
+}
+.colpy{
+  /* border:  1px solid black; */
+  width: 400px ;
+  text-align: center;
+}
+
+}
+
+#button1 {
+  display: block;
+  height: 50px;
+  width: 130px;
+}
+
+@media (max-width: 640px) {
+  .hero_img {
+    margin-top: 30px;
+    width: 75%;
+  }
+
+  .Lorem_text {
+    width: 100%;
+    /* border:  1px solid black; */
+    font-size: 13px;
+  }
+
+  .hero_text_outerdiv {
+    /* border:  1px solid rgb(198, 16, 16); */
+    max-width: 100%;
+  }
+
+  .hero_text_business {
+    font-size: 11px;
+  }
+    .marketing{
+    /* border:  1px solid black; */
+    width: 100%;
+  }
+  .marketing_skills_outerDiv{
+    /* border: 1px solid black; */
+    width: 95%;
+  }
+.section2_Imagine_Features{
+  padding-bottom: 100px;
+}
+.Communicate{
+  font-size: 14px;
+  width: 100%;
+  /* border: 1px solid black */
+}
+.Section3_features{
+  padding-top: 0;
+  /* border: 1px solid black; */
+  padding-bottom: 0;
+
+}
+}
+
+@media (max-width: 575px)  {
+  .Section_4_about{
+    width: 100%;
+    
+    /* border:  1px solid black; */
+  }
+
+  .papage{
+    width: 90%;
+  }
+
+
+  .aboutus_text_div{
+    width: 100%;
+    /* border:  1px solid black; */
+
+  }
+
+.paragraph{
+ width: 100%;
+    /* border:  1px solid black; */
+
+}
+
+  .man_img{
+    width: 100%;
+    /* border:  1px solid black; */
+
+  }
+
+/* --------------------------------- */
+.team_info{
+  /* border:  1px solid black; */
+  /* width: ; */
+}
+.pp1{
+  width: 95%;
+  margin: auto;
+}
+.about_team_prsn p{
+   font-size: 16px;
+  /* border:  1px solid black; */
+   width: 95%;
+  margin: auto;
+
+}
+.about_team_prsn h5{
+margin-left: 15px;
+}
+.about_team_prsn h6{
+margin-left: 15px;
+}
+
+
+.para-1{
+  width: 51%;
+  /* border:  1px solid black; */
+ margin: auto;
+}
+
+
+.prent_12{
+  /* border:  2px solid green; */
+  width: 90%;
+}
+.prent_12 img{
+  width: 100%;
+}
+.ul_ab{
+width:90% ;
+/* border:  1px solid black; */
+}
+
+.make{
+  width: 100%;
+  font-weight: lighter;
+}
+.lo{
+  width: 100%;
+}
+
+
+.name-fields input{
+  width: 100%;
+}
+
+.full-input {
+  width: 100%;
+}
+.ContactForm{
+    padding-left: 10px;
+  padding-right: 10px;
+  /* border:  1px solid black; */
+  width: 90%;
+}
+.colpy{
+  width: 80%;
+}
+
+
+}
+
+

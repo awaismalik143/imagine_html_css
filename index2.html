@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Section Fixed Lines</title>
+  <style>
+    /* Basic Reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+
+    /* Section Styling */
+    .Section_4_about {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 2rem;
+      width: 85%;
+      max-width: 1200px;
+      margin: 80px auto;
+      padding: 40px 0;
+      background-color: #fff;
+      border-radius: 16px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Image */
+    .Section_4_about img {
+      width: 100%;
+      max-width: 400px;
+      border-radius: 12px;
+      object-fit: cover;
+    }
+
+    /* Text box */
+    .aboutus_text_div {
+      width: 100%;
+      max-width: 65ch; /* 65 characters wide = same line count */
+    }
+
+    .aboutus_text_div h2 {
+      font-size: 2rem;
+      margin-bottom: 15px;
+      color: #2a2a2a;
+    }
+
+    .aboutus_text_div p {
+      font-size: 1.1rem;
+      line-height: 1.7;
+      color: #555;
+    }
+
+    /* Responsive for small devices */
+    @media (max-width: 768px) {
+      .aboutus_text_div {
+        max-width: 55ch; /* slightly tighter width for smaller screens */
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <section class="Section_4_about">
+    <img src="https://via.placeholder.com/400x300" alt="About us image">
+
+    <div class="aboutus_text_div">
+      <h2>About Us</h2>
+      <p>
+        We are a creative digital studio passionate about building beautiful and functional websites.
+        Our team focuses on design precision, responsive layouts, and user experience — ensuring your
+        brand stands out across all devices. From concept to completion, we turn ideas into digital reality.
+      </p>
+    </div>
+  </section>
+
+</body>
+</html>
